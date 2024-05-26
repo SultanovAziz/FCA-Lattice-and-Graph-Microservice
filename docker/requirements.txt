@@ -1,0 +1,6 @@
+Flask
+gunicorn
+psycopg2-binary
+neo4j
+flask_sqlalchemy
+Flask-Migrate
