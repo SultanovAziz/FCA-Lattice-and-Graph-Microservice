@@ -1,6 +1,8 @@
 Flask
+flask_sqlalchemy
+Flask-Migrate
 gunicorn
 psycopg2-binary
 neo4j
-flask_sqlalchemy
-Flask-Migrate
+watchdog
+
